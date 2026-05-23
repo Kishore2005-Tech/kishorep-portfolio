@@ -10,7 +10,7 @@ Portfolio website built using HTML5, CSS3, JavaScript, Three.js and jQuery.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 ### Extras : 
-**Particle.js**, **Typed.js**, **Tilt.js**
+**Particle.js, **Typed.js**, **Tilt.js**
 
 
 
